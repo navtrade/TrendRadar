@@ -1,5 +1,5 @@
-DeepSeek
-梁文锋
+A股
+股市
 
 华为
 
@@ -7,23 +7,3 @@ DeepSeek
 灵犀
 稚晖君
 彭志辉
-
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-ai
-!gai
-人工智能
